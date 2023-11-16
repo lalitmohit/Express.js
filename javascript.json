@@ -1,0 +1,230 @@
+[
+    {
+        "question": "What is JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "A high-level programming language.",
+            "A type of coffee.",
+            "A tool for debugging code.",
+            "A type of computer hardware."
+        ],
+        "correct_ans": "A high-level programming language."
+    },
+    {
+        "question": "What is the primary use of JavaScript in web development?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Enhancing interactivity and functionality in web pages.",
+            "Styling web pages with CSS.",
+            "Creating server-side applications.",
+            "Managing databases."
+        ],
+        "correct_ans": "Enhancing interactivity and functionality in web pages."
+    },
+    {
+        "question": "How do you declare a variable in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Using 'var', 'let', or 'const'.",
+            "Using 'int', 'float', or 'string'.",
+            "By typing the variable name without any keywords.",
+            "By using 'variable' followed by the variable name."
+        ],
+        "correct_ans": "Using 'var', 'let', or 'const'."
+    },
+    {
+        "question": "What does the 'console.log()' function do in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Outputs data to the browser console for debugging and testing.",
+            "Displays an alert message on the web page.",
+            "Creates a new webpage.",
+            "Modifies the HTML content of a page."
+        ],
+        "correct_ans": "Outputs data to the browser console for debugging and testing."
+    },
+    {
+        "question": "What is a function in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "A block of code that performs a specific task.",
+            "A type of loop in JavaScript.",
+            "A way to declare variables.",
+            "A data structure in JavaScript."
+        ],
+        "correct_ans": "A block of code that performs a specific task."
+    },
+    {
+        "question": "How do you define a function in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Using the 'function' keyword.",
+            "Using 'if' and 'else' statements.",
+            "By declaring variables.",
+            "By using 'int' followed by the function name."
+        ],
+        "correct_ans": "Using the 'function' keyword."
+    },
+    {
+        "question": "What is an 'if' statement in JavaScript used for?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "To create conditional code execution.",
+            "To display messages on the web page.",
+            "To perform mathematical calculations.",
+            "To declare variables."
+        ],
+        "correct_ans": "To create conditional code execution."
+    },
+    {
+        "question": "What is an 'array' in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "A data structure that stores a list of values.",
+            "A way to define functions.",
+            "A type of loop in JavaScript.",
+            "A tool for debugging code."
+        ],
+        "correct_ans": "A data structure that stores a list of values."
+    },
+    {
+        "question": "How do you add comments in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Using '//' for single-line comments and '/* */' for multi-line comments.",
+            "By declaring variables with comments.",
+            "By using 'comment' followed by the comment text.",
+            "By typing comments outside the script tags."
+        ],
+        "correct_ans": "Using '//' for single-line comments and '/* */' for multi-line comments."
+    },
+    {
+        "question": "What is 'DOM' in the context of JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Document Object Model, a programming interface for web documents.",
+            "A new JavaScript data type.",
+            "A type of loop in JavaScript.",
+            "A built-in function for mathematical calculations."
+        ],
+        "correct_ans": "Document Object Model, a programming interface for web documents."
+    },
+    {
+        "question": "How do you change the content of an HTML element with JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "By selecting the element and modifying its 'innerHTML' property.",
+            "By using 'getElementById' to update the element.",
+            "By using 'document.replace' to change the content.",
+            "By declaring a new element with the content you want."
+        ],
+        "correct_ans": "By selecting the element and modifying its 'innerHTML' property."
+    },
+    {
+        "question": "What is 'AJAX' in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "Asynchronous JavaScript and XML, a technique for making web requests without reloading the entire page.",
+            "A JavaScript library for animations.",
+            "A type of data structure in JavaScript.",
+            "A tool for debugging code."
+        ],
+        "correct_ans": "Asynchronous JavaScript and XML, a technique for making web requests without reloading the entire page."
+    },
+    {
+        "question": "What is 'JSON' in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "JavaScript Object Notation, a data interchange format.",
+            "A way to create objects in JavaScript.",
+            "A type of loop in JavaScript.",
+            "A built-in function for mathematical calculations."
+        ],
+        "correct_ans": "JavaScript Object Notation, a data interchange format."
+    },
+    {
+        "question": "What is an 'event' in JavaScript?",
+        "Level": "Easy",
+        "language": "JavaScript",
+        "Options": [
+            "An action or occurrence that happens in the browser.",
+            "A type of variable in JavaScript.",
+            "A method to perform mathematical calculations.",
+            "A way to define functions."
+        ],
+        "correct_ans": "An action or occurrence that happens in the browser."
+    },
+    {
+        "question": "How do you handle exceptions in JavaScript?",
+        "Level": "Medium",
+        "language": "JavaScript",
+        "Options": [
+            "By using 'try' and 'catch' blocks.",
+            "By creating conditional code using 'if' statements.",
+            "By using 'check' and 'catch' statements.",
+            "By declaring variables with comments."
+        ],
+        "correct_ans": "By using 'try' and 'catch' blocks."
+    },
+    {
+        "question": "What is an 'object' in JavaScript?",
+        "Level": "Medium",
+        "language": "JavaScript",
+        "Options": [
+            "A collection of key-value pairs.",
+            "A type of loop in JavaScript.",
+            "A way to define functions.",
+            "A tool for debugging code."
+        ],
+        "correct_ans": "A collection of key-value pairs."
+    },
+    {
+        "question": "How do you define a class in JavaScript?",
+        "Level": "Medium",
+        "language": "JavaScript",
+        "Options": [
+            "By using the 'class' keyword.",
+            "By creating an object with properties and methods.",
+            "By using 'var', 'let', or 'const'.",
+            "By writing JavaScript within HTML tags."
+        ],
+        "correct_ans": "By using the 'class' keyword."
+    },
+    {
+        "question": "What is 'this' keyword in JavaScript?",
+        "Level": "Medium",
+        "language": "JavaScript",
+        "Options": [
+            "A reference to the current object.",
+            "A way to print messages to the console.",
+            "A type of loop in JavaScript.",
+            "A built-in function for mathematical calculations."
+        ],
+        "correct_ans": "A reference to the current object."
+    },
+    {
+        "question": "How do you create an array in JavaScript?",
+        "Level": "Medium",
+        "language": "JavaScript",
+        "Options": [
+            "By using square brackets [] and adding elements inside.",
+            "By declaring variables with comments.",
+            "By using 'addArray' followed by array elements.",
+            "By writing a list of values separated by commas."
+        ],
+        "correct_ans": "By using square brackets [] and adding elements inside."
+    }
+]
