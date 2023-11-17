@@ -116,12 +116,13 @@
 
 
 const express = require('express');
+require('dotenv').config();
 const app = express();
 const port = process.env.PORT || 4000; // Use the provided port or 4000 as a default
 const { MongoClient } = require('mongodb');
+const URL = process.env.URL;
 
-const uri = "mongodb+srv://lalitg:lalitgour@cluster0.gyxdnnb.mongodb.net/mernstack?retryWrites=true&w=majority";
-const client = new MongoClient(uri, { useUnifiedTopology: true });
+const client = new MongoClient(URL, { useUnifiedTopology: true });
 
 async function connectToDatabase() {
   await client.connect();
@@ -139,5 +140,4 @@ app.use('/api', apiRoutes);
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
-
 
