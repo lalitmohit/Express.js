@@ -57,7 +57,7 @@
 // const { MongoClient } = require('mongodb');
 // const fs = require('fs');
 
-// const uri = "mongodb+srv://lalitg:lalitgour@cluster0.gyxdnnb.mongodb.net/mernstack?retryWrites=true&w=majority";
+// const uri = URL
 
 // async function insertQuestionsFromJSON() {
 //   const client = new MongoClient(uri, { useUnifiedTopology: true });
